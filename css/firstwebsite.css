@@ -1,0 +1,11 @@
+.circle-icon {
+    border-radius: 70% ;
+}
+.bg-dark,.navbar-dark{
+    background: rgba(0, 0,0, 0.3);
+}
+.title-underline{
+    width: 100px;
+    height: 5px;
+    margin: 0 auto;
+}
