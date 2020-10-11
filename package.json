@@ -1,0 +1,24 @@
+{
+  "name": "hospital-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rprakash1391995/hospitalWeb.git"
+  },
+  "author": "Ravi prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rprakash1391995/hospitalWeb/issues"
+  },
+  "homepage": "https://github.com/rprakash1391995/hospitalWeb#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "webpack": "^5.0.0"
+  }
+}
